@@ -1,0 +1,56 @@
+{
+  "name": "react-native-media-store",
+  "title": "react-native-media-store",
+  "version": "0.1.0",
+  "description": "A module to scan media files",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": {
+    "name": "Drazail",
+    "email": "drliazard@gmail.com"
+  },
+  "contributors": [
+    {
+      "name": "Drazail",
+      "email": "drliazard@gmail.com",
+      "url": "http://drazail.github.io"
+    }
+  ],
+  "keywords": [
+    "react-native"
+  ],
+  "license": "IST",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Drazail/react-native-get-music-files/tree/v3dev"
+  },
+  "bugs": {
+    "url": "https://github.com/Drazail/react-native-get-music-files/tree/v3dev"
+  },
+  "readmeFilename": "README.md",
+  "peerDependencies": {
+    "react": "^16.8.1",
+    "react-native": "^0.61.5"
+  },
+  "devDependencies": {
+    "react": "^16.8.3",
+    "react-native": "^0.61.5",
+    "@babel/core": "^7.7.7",
+    "@babel/plugin-transform-modules-commonjs": "^7.7.5",
+    "babel-jest": "^24.9.0",
+    "eslint": "^6.8.0",
+    "eslint-config-airbnb-base": "^14.0.0",
+    "eslint-plugin-import": "^2.19.1",
+    "jest": "^24.9.0"
+  },
+  "jest": {
+    "testRegex": "(/__tests__/.*\\.test\\.js)$",
+    "collectCoverage": true,
+    "coverageReporters": [
+      "json",
+      "html"
+    ]
+  }
+}
