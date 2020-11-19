@@ -60,6 +60,3 @@ Extends Image.
 <CoverImage src={"pathToSong"} width={120} height={120} />
 ```
 
-## Example
-
-https://github.com/Drazail/react-native-get-music-files/blob/v3dev/example/App.js
